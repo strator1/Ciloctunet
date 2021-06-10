@@ -1,0 +1,13 @@
+background
+inner scleral border
+upper iris border
+outer conjunctiva border
+outer ciliary muscle border
+inner ciliary muscle border
+vertical ciliary muscle border
+ciliary muscle area
+upper lens border
+lower lens border
+lens area
+anterior chamber area
+air area

@@ -1,0 +1,14 @@
+test_iter: 616
+test_interval: 5616
+base_lr: 9.99999974738e-06
+display: 702
+max_iter: 168480
+lr_policy: "step"
+gamma: 0.10000000149
+weight_decay: 9.99999940632e-08
+stepsize: 67392
+snapshot: 5616
+snapshot_prefix: "snapshot"
+solver_mode: GPU
+net: "train_val.prototxt"
+solver_type: RMSPROP
